@@ -1,0 +1,6 @@
+{    
+    "DATA_PATH": "data/sessions/",
+    "CSV_PATH": "csv/",
+    "CSV_NAME": "session_2.csv",
+    "SESSION_FOLDER": "/S2"
+}
